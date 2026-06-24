@@ -24,7 +24,7 @@ Developed as a capstone project for the Certificate Program in Algorithmic Tradi
 - `risk/`: Position sizing and constraint enforcement.
 - `trading/`: Execution gateway for simulation.
 
-# Roadmap & Future Iterations
+## Roadmap & Future Iterations
 This project serves as a foundational engine for algorithmic trading. Future development will focus on enhancing strategy robustness, scaling the execution infrastructure, and refining risk governance.
 
 ## 🚀 Phase 1: Real-World Execution

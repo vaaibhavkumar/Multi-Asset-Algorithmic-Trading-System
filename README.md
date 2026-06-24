@@ -23,3 +23,21 @@ Developed as a capstone project for the Certificate Program in Algorithmic Tradi
 - `strategy/`: Core signal computation.
 - `risk/`: Position sizing and constraint enforcement.
 - `trading/`: Execution gateway for simulation.
+
+# Roadmap & Future Iterations
+This project serves as a foundational engine for algorithmic trading. Future development will focus on enhancing strategy robustness, scaling the execution infrastructure, and refining risk governance.
+
+## 🚀 Phase 1: Real-World Execution
+Broker API Integration: Transition from the current simulation gateway to a live BrokerExecutionGateway using robust APIs (e.g., Alpaca or Indian Broker APIs).
+
+Parallel Validation: Execute side-by-side paper trading for 2–4 weeks to reconcile slippage and execution latency between models and reality.
+
+## 📈 Phase 2: Strategy Robustness
+ADX Integration: Implement an Average Directional Index (ADX) module to validate trend strength and filter out market noise.
+
+Walk-Forward Analysis: Move from static backtesting to rolling-window optimization to ensure strategy parameters remain relevant across changing market regimes.
+
+## 🛡 Phase 3: Advanced Risk & Infrastructure
+Dynamic Circuit Breakers: Incorporate automated trading halts based on SEBI/SEC-aligned market volatility thresholds.
+
+Real-time Monitoring: Develop a dashboard to track P&L, latency, and system health in real-time.

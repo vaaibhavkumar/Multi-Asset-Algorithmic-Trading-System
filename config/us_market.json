@@ -1,0 +1,11 @@
+{
+    "market_name": "US_Equity",
+    "index": "^GSPC",
+    "tickers": [
+        "AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "TSLA", "BRK-B", "JPM", "V",
+        "JNJ", "WMT", "UNH", "MA", "PG", "HD", "XOM", "MRK", "ORCL", "COST",
+        "CVX", "LLY", "AVGO", "ABBV", "PEP", "BAC", "KO", "ADBE", "CSCO", "AMD",
+        "TMO", "CMCSA", "CRM", "NFLX", "QCOM", "TXN", "ACN", "HON", "AMGN", "GE",
+        "INTC", "IBM", "PFE", "MS", "SBUX", "CAT", "MDLZ", "GILD", "DE", "LMT"
+    ]
+}

@@ -3,7 +3,7 @@
 A custom-built, modular, Python-based algorithmic trading system designed for backtesting and paper trading across Indian (Nifty 50) and US (S&P 500) equity markets.
 
 ## 🚀 Overview
-Developed as a capstone project for the Certificate Program in Algorithmic Trading (CPAT), this system implements a complete trading lifecycle: from data ingestion and signal generation to risk management and performance analysis.
+This system implements a complete trading lifecycle: from data ingestion and signal generation to risk management and performance analysis.
 
 ## 🛠 Features
 - **Custom Backtesting Engine:** Built from scratch—no external backtesting libraries used—to ensure full transparency.
